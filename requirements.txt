@@ -1,0 +1,6 @@
+joblib==<installed-version>
+numpy==<installed-version>
+scikit-learn==<installed-version>
+scipy==<installed-version>
+threadpoolctl==<installed-version>
+pytest==<installed-version>
