@@ -1,7 +1,26 @@
-pycache/
-*.py[cod]
-*$py.class
+
+# Python virtual environments
 .venv/
 venv/
-env/
-ENV/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated model artifacts
+models/*.joblib
+models/*.pkl
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,6 +1,6 @@
 from pathlib import Path
 import joblib
-Model_path = Path("model/iris_model.joblib")
+Model_path = Path("mlops-day1\models\iris_model.joblib")
 
 def test_saved_model_exists():
     assert Model_path.exists()
