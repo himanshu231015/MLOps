@@ -1,0 +1,3 @@
+timestamp_utc,run_id,run_name,dataset,test_size,random_state,n_estimators,accuracy,model_path
+2026-10-11T19:00:17.234446+00:00,20261011T190017234446Z,iris_rf_50,sklearn.datasets.load_iris,0.2,42,50,0.9,mlops\src\models\iris_rf_50_20261011T190017234446Z.joblib
+2026-10-11T19:00:17.456839+00:00,20261011T190017456839Z,iris_rf_150,sklearn.datasets.load_iris,0.2,42,150,0.9,mlops\src\models\iris_rf_150_20261011T190017456839Z.joblib
