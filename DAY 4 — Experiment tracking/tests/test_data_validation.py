@@ -8,7 +8,7 @@ from sklearn.datasets import load_iris
 
 # Add the source directory to the import path.
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SOURCE_DIR = PROJECT_ROOT / "DAY 4 — Experiment tracking"
+SOURCE_DIR = PROJECT_ROOT
 
 sys.path.insert(0, str(SOURCE_DIR))
 
